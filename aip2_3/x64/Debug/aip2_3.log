@@ -1,0 +1,5 @@
+﻿  aip2_3.c
+C:\Users\pewde\source\repos\aip2_3\aip2_3\aip2_3.c(122,14): warning C4047: инициализация: "char" отличается по уровням косвенного обращения от "char *"
+C:\Users\pewde\source\repos\aip2_3\aip2_3\aip2_3.c(122,14): warning C4047: инициализация: "char" отличается по уровням косвенного обращения от "int *"
+C:\Users\pewde\source\repos\aip2_3\aip2_3\aip2_3.c(77): warning C4715: getZodiak: значение возвращается не при всех путях выполнения
+  aip2_3.vcxproj -> C:\Users\pewde\source\repos\aip2_3\x64\Debug\aip2_3.exe
